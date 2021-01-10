@@ -1,5 +1,5 @@
 # Live Demo Link
-The template can be viewed by clicking [HERE](
+The template can be viewed by clicking [HERE](https://haris-afzal.github.io/MuseumOfCandy/)
 
 # MuseumOfCandy
 A responsive homepage design for a candy museum website using **_Bootstrap_**
